@@ -1,0 +1,83 @@
+.navbar-brand img{
+    width: 154px;
+    height: 24px;
+}
+nav{
+    height: 84px;
+    background-color: #F5F7FA;
+}
+.nav-link{
+    font-family: "Inter", sans-serif;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.register-btn,.login-btn{
+    width: 91px;
+    height: 40px;
+    
+}
+
+.register-btn{
+    background: #4CAF4F !important;
+}
+.login-btn{
+    color: #4CAF4F !important;
+}
+
+
+
+.slider-section{
+    background: #F5F7FA;
+}
+
+.col-element1{
+    background-color: red;
+}
+.col-element2{
+    background-color: #4CAF4F;
+}
+.carousel-title{
+    color: #4D4D4D;
+    font-size: 64px;
+    line-height: 76px;
+}
+.carousel-title-diff{
+    color: #4CAF4F;
+}
+.carousel-item-text{
+    color: #717171;
+    line-height: 24px;
+}
+.btn-carousel{
+    background-color: #4CAF4F !important;
+    
+}
+.carousel-item-img img{
+    width: 75%;
+    margin: auto;
+    height: 400px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+    background-color: #4caf4f5e !important;
+}
+.carousel-indicators .active{
+    background-color: #4CAF4F !important;
+}
+
+
+.clients-header h1{
+    font-size: 36px;
+    color: #4D4D4D;
+}
+.clients-header p{
+    color: #717171;
+    line-height: 24px;
+}
+.client-logo{
+    width: 48px;
+    height: 48px;
+}

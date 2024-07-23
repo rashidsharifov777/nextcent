@@ -1,0 +1,120 @@
+.list5-wrapper {
+    margin: 48px 0;
+}
+
+.list5 {
+    display: flex;
+    align-items: center;
+}
+
+.list5-left {
+    margin-right: 20px; /* Adjust as needed for spacing between image and text */
+}
+
+.list5-left img {
+    width: 441.53px;
+    height: 433.4px;
+    display: block; /* Ensure image fills its container */
+    max-width: 100%; /* Make sure image doesn't overflow */
+}
+
+.list5-right {
+    flex: 1; /* Take remaining space */
+}
+
+.list5-right__title {
+    margin-bottom: 16px;
+    color: #4D4D4D;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    text-align: left;
+}
+
+.list5-right__paragraph {
+    margin-bottom: 32px;
+    color: #717171;
+}
+
+.list5-right__link {
+    display: inline-block;
+    padding: 14px 32px;
+    border-radius: 4px;
+    background-color: #4CAF4F;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.content {
+    margin-top: 100px !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text-content {
+    display: flex;
+    align-items: flex-start;
+}
+
+.image-container {
+    width: 30%;
+    margin-right: 20px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.content-right {
+    flex: 1;
+}
+
+p {
+    color: #717171; /* Text color for main paragraph */
+    margin-bottom: 20px; /* Adds space between paragraphs */
+}
+
+.author {
+    margin-top: 10px;
+}
+
+.author h3 {
+    color: #4CAF4F; 
+}
+
+.author p {
+    color: #89939E; 
+}
+
+.customer-logo {
+    margin-top: 10px;
+}
+
+.customer-logo img {
+    margin-right: 10px; /* Adds space between customer logos */
+}
+
+.green-link {
+    color: green;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    width: 188px; 
+    height: 28px; 
+    line-height: 28px; 
+    margin-top: 10px;
+    opacity: 1; 
+}
+
+.green-link:hover {
+    text-decoration: underline;
+}
+
+
